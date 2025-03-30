@@ -1,0 +1,33 @@
+{
+  "originHash" : "85644f2ee7896aa4b55aa91b2d01d8221d6c85e164a1b774d1b6465db121ab1d",
+  "pins" : [
+    {
+      "identity" : "morecodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tattn/MoreCodable.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "95e3cc73810e1958a81a01d189a318828b14e44f"
+      }
+    },
+    {
+      "identity" : "pythoncodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pvieito/PythonCodable",
+      "state" : {
+        "branch" : "master",
+        "revision" : "68d4584253eccbadbe43234ff22810bc8982e174"
+      }
+    },
+    {
+      "identity" : "pythonkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pvieito/PythonKit.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6fee7617cfa910fbac7035276e295ba967adbbb4"
+      }
+    }
+  ],
+  "version" : 3
+}

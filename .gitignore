@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+venv
+
+# Environment Variables
+.env
+
+# Cursor IDE
+.cursor/
+.cursor
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
