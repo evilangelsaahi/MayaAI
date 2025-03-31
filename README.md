@@ -3,6 +3,12 @@
 
 MayaAI is an intelligent music industry assistant powered by CrewAI, featuring three specialized agents working together to provide comprehensive music industry insights and creative assistance.
 
+under 3 minute demo of the project:
+
+
+[![Video Demo](http://img.youtube.com/vi/sPpk7xr73II/0.jpg)](https://youtu.be/sPpk7xr73II)
+
+
 ## Features
 
 ### 1. MAYA (Senior Artist Manager)
