@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```
 
 4. Configure API keys:
-Create `.env` file in dorectory, an empty template is present save your API keys there and remove `_template` so that `config.py` file can map with your API keys:
+Create `.env` file in directory, an empty template is present save your API keys there and remove `_template` so that `config.py` file can map with your API keys:
 
 ```python
 # WatsonX Configuration
@@ -115,6 +115,10 @@ OPENWEATHERMAP_API_KEY="PUT-YOUR-API-KEY-HERE"
 Run the main application:
 ```bash
 python agent.py
+```
+or
+```bash
+python3 agent.py
 ```
 
 The application provides an interactive menu with options to:
@@ -152,7 +156,8 @@ The application provides an interactive menu with options to:
 
 This configuration creates reliable, consistent outputs with moderate creativity and reasonable length constraints.
 
-There's always a tradeoff between creativity and being right, these params are chosen to suit the best case for this project.
+**Note: There's always a tradeoff between creativity and being right, these params are chosen to suit the best case for this project.**
+**Sometimes I noticed right answer in the thought process of Agent, but again in final answer it apologizes for being wrong.**
 
 ## Outputs
 
